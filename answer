@@ -1,0 +1,30 @@
+<!--Author: Oussoumane Mahaman Madani ( GOMYC{}DE )-->
+
+
+
+<?php
+/**
+ * Created by PhpStorm.
+ * User: comgoon
+ * Date: 8/12/18
+ * Time: 5:30 PM
+ */
+$nbre = 7;
+
+//   FOR)
+for ($i = 1; $i <= $nbre; $i++){
+    echo $i. "<br>";
+}
+
+
+
+echo "<br>";
+
+
+
+//   WHILE)
+$x = 1;
+while ($x <= $nbre){
+    echo $x. "<br>";
+    $x++;
+}
